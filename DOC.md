@@ -33,3 +33,10 @@ Hello
 Hello
 Hello
 ```
+
+```python
+def hello():
+    print('hello')
+
+hello()
+```
