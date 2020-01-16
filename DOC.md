@@ -15,3 +15,13 @@ Hello ~~judy~~ 刪除線
 換行：
 1. 空一行
 2. 最後面加上兩個空白鍵
+
+--- 我是分隔線 ---
+
+<http://google.com>
+
+[google](http://google.com)
+
+---
+
+Hello `judy`
